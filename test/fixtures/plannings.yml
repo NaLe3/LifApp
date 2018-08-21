@@ -1,0 +1,7 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  week_date: 2018-08-21
+
+two:
+  week_date: 2018-08-21
