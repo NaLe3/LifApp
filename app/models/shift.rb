@@ -1,3 +1,3 @@
 class Shift < ApplicationRecord
-  belong_to :worker
+  belongs_to :worker
 end
